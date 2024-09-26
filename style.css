@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(40, 78, 161);
+    color: white;
+    text-align: center;
+}
+img{
+    width: 400px;
+    height: 600px;
+}
+
+#amarelo{
+    width: 500px;
+    height: 300px;
+}
+
+#azul{
+    width: 500px;
+    height: 300px;
+}
+
+#vermelho{
+    width: 500px;
+    height: 300px; 
+}
